@@ -6,4 +6,5 @@ then validation rule restrict the form to submit.
 
 
 3 For front end validation VeeValidate is used.
+
 4 DatePicker library is used for date
