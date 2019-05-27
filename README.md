@@ -15,6 +15,6 @@ then validation rule restrict the form to submit.
 ### BEM pattern follwed
 
 ### How it works
-When user submit the form,validation rules check whether data is appropirate or not. If the data is appropriate then it is stored in vuex store.
+When user submit the form,validation rules check whether data is appropirate or not. If the data is appropriate then it is stored in vuex store otherwise form is not submitted.
 
 Another component (Profile) access the data stored in vuex store and displays it. 
